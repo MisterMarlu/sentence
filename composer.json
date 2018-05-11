@@ -1,0 +1,14 @@
+{
+    "name": "lbraun/sentence",
+    "authors": [
+        {
+            "name": "Luca Braun",
+            "email": "l.braun@rto.de"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Lib\\": "Lib/"
+        }
+    }
+}

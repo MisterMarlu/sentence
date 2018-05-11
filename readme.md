@@ -1,1 +1,1 @@
-# Sentence of the das
+# Sentence of the day
